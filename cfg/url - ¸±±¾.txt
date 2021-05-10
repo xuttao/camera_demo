@@ -1,0 +1,1 @@
+rtsp://admin:xuehu0930@192.168.3.18:554/cam/realmonitor?channel=1&subtype=0
